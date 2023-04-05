@@ -11,9 +11,10 @@ const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
 
 const response = await fetch("https://s.weibo.com/top/summary", {
   headers: {
-    "Cookie": "SUB=_2AkMWJrkXf8NxqwJRmP8SxWjnaY12zwnEieKgekjMJRMxHRl-yj9jqmtbtRB6PaaX-IGp-AjmO6k5cS-OH2X9CayaTzVD",
+    "Cookie": "SUB=_2A25JKfUJDeRhGeVN6loY8y7JyD6IHXVqX2HBrDV8PUNbmtAGLUjlkW9NTGedAE2mWNo00gy_TzPXLZ7rPXH5DEyZ",
   },
-});
+})
+.catch( e => console.error(e));
 
 if (!response.ok) {
   console.error(response.statusText);
