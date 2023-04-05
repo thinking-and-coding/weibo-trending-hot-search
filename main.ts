@@ -13,8 +13,7 @@ const response = await fetch("https://s.weibo.com/top/summary", {
   headers: {
     "Cookie": "SUB=_2A25JKfUJDeRhGeVN6loY8y7JyD6IHXVqX2HBrDV8PUNbmtAGLUjlkW9NTGedAE2mWNo00gy_TzPXLZ7rPXH5DEyZ",
   },
-})
-.catch( (e) => console.error(e));
+}).catch( (e) => console.error(e));
 
 if (!response.ok) {
   console.error(response.statusText);
