@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 24 2024 06:08:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 24 2024 07:09:08 GMT+0800 (China Standard Time) -->
 
 1. [习近平会见埃及总统](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%23&Refer=new_time)
 1. [江西张某某拒服兵役性质恶劣被罚](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%BC%A0%E6%9F%90%E6%9F%90%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E6%80%A7%E8%B4%A8%E6%81%B6%E5%8A%A3%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=14&Refer=top)
