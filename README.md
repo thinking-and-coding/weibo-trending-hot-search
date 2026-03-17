@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 18 2026 04:28:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 18 2026 05:28:12 GMT+0800 (China Standard Time) -->
 
 1. [为人民出政绩](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BA%BA%E6%B0%91%E5%87%BA%E6%94%BF%E7%BB%A9%23&Refer=new_time)
 1. [多地宣布生物地理不再计入中考总分](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E5%86%8D%E8%AE%A1%E5%85%A5%E4%B8%AD%E8%80%83%E6%80%BB%E5%88%86%23&t=31&band_rank=1&Refer=top)
